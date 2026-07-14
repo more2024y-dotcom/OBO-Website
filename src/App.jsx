@@ -1,8 +1,8 @@
-import Home from "./pages/Home.jsx";
-
 function App() {
   return (
-    <Home />
+    <h1 style={{fontSize:"50px"}}>
+      OBO TEST WORKING
+    </h1>
   );
 }
 
