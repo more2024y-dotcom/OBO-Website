@@ -7,7 +7,7 @@ function Register(){
 
       <input placeholder="Email" />
 
-      <input
+      <input 
         placeholder="Password"
         type="password"
       />
