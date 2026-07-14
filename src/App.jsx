@@ -1,6 +1,13 @@
+import { Routes, Route } from "react-router-dom";
+
 function App() {
   return (
-    <h1>OBO TEST WORKING</h1>
+    <Routes>
+      <Route 
+        path="/" 
+        element={<h1>OBO TEST WORKING</h1>} 
+      />
+    </Routes>
   );
 }
 
